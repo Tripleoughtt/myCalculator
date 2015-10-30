@@ -1,0 +1,19 @@
+.calculator{
+	text-align: center;
+}
+
+#calculate {
+	margin-left: 150px;
+}
+button{
+	padding: 10px;
+	margin: 20px;
+	font-size: 1.5em;
+	width: 100px;
+}
+
+input{
+	width: 390px;
+	height: 50px;
+	font-size: 2em;
+}
